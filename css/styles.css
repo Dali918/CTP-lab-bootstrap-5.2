@@ -1,1 +1,27 @@
 /* Add custom css styles here */
+* {
+    text-align: center;
+}
+
+header {
+    height:400px;
+    background-image: url("images/coffee-biscuits.jpg");
+    background-size: cover;
+}
+
+
+.h2--title {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.div--title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+}
